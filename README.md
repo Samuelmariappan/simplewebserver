@@ -46,4 +46,4 @@ httpd.serve_forever()
 ![OUTPUT](./image/webserver.png)
 
 ## RESULT:
-Program is executed Successfully
+The Program is executed Successfully
